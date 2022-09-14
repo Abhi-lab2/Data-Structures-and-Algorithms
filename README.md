@@ -2,5 +2,5 @@
 
 rights reserved © 
 
-### Time Complexities chart
+### Time and Space Complexity chart
 ![Landing Page](https://miro.medium.com/max/528/1*MgjJMHHTbWjtq0WzK5m6Ug.png)
